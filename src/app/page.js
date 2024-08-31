@@ -52,7 +52,7 @@ export default function Home() {
             />
           </div>
           <button type="submit" className="w-full bg-blue-500 text-white py-2 rounded hover:bg-blue-600">
-            Track Wallet
+            Track Wallet Now 
           </button>
         </form>
       </main>
