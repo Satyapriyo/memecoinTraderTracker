@@ -1,7 +1,7 @@
 // File: pages/index.js
 
 
-"use state";
+"use client";
 import { useState } from 'react';
 import Head from 'next/head';
 
